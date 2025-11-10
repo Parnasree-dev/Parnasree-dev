@@ -7,8 +7,8 @@ I have done quite good number of projects and certifications that enhance my ski
 I am optimistic, confident, and believe in learning and not giving up easily. Passionate towards Software Testing. Love to test software and finding bugs.
 
 ## Skills
-- Programming Languages - Python3, Java, HTML, CSS.
-- Automation Tools: Selenium with Python , Selenium+BDD using Cucumber, Gherkins and JavaScript, Katalon Studio(For various platform like Web, Mweb, Android)
+- Programming Languages - Python3, HTML, CSS.
+- Automation Tools: Pytest , Selenium with Python , Selenium+BDD using Cucumber, Gherkins and JavaScript, Katalon Studio(For various platform like Web, Mweb, Android)
 - Test Management Tools Used: Jira, Test Rail
 - Visualization/Monitoring Tool: Kibbana
 - Version Control: Git And Github
@@ -31,18 +31,19 @@ I am optimistic, confident, and believe in learning and not giving up easily. Pa
 <details>
  
  ### Portfolio
- [![image](https://user-images.githubusercontent.com/56734293/129670053-8fbafbb4-c8cf-439b-a7c6-ce14c66c5b27.png)](https://puja2481.github.io/Portfolio/ "Click to Watch")
+ [![image](https://user-images.githubusercontent.com/56734293/129670053-8fbafbb4-c8cf-439b-a7c6-ce14c66c5b27.png)](https://Parnasree-dev.github.io/Portfolio/ "Click to Watch")
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Puja2481.Puja2481)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Parnasree-dev.Parnasree-dev)
 
 #### Github Stats
 
-[![Puja's github stats](https://github-readme-stats.vercel.app/api?username=Puja2481)](https://github.com/Puja2481/github-readme-stats)
+[![Puja's github stats](https://github-readme-stats.vercel.app/api?username=Puja2481)](https://github.com/Parnasree-dev/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puja2481)](https://github.com/Puja2481/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puja2481)](https://github.com/Parnasree-dev/github-readme-stats)
 
 </details>
+
 
 
